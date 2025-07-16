@@ -3,7 +3,6 @@
 
 # Student Performance Prediction Analytics System
 
-A comprehensive machine learning system analyzing student performance data using multiple classification algorithms to predict academic outcomes based on learning methodology, satisfaction, and ability metrics.
 
 ## Overview
 
